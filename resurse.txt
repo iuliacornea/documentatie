@@ -1,0 +1,45 @@
+Ajax Tutorial, http://www.tutorialspoint.com/ajax/.
+
+[1] 	Yuval N. Harari, „Sapiens : a Brief History of Humankind”,  New York :Harper, 2015.
+[2]	Rouse, Margaret (2019). "internet of things (IoT)". IOT Agenda. Retrieved 14 August 2019.
+[3]	Brown, Eric (20 September 2016). "21 Open Source Projects for IoT". Linux.com. Retrieved 23 October 2016.
+[4]	"Internet of Things Global Standards Initiative". ITU. Retrieved 26 June 2015.
+[5]	"The "Only" Coke Machine on the Internet". Carnegie Mellon University. Retrieved 10 November 2014.
+
+
+[9]	Dr. Jennifer S. Raj, J. Vijitha Ananthi, „AUTOMATION USING IOT IN GREENHOUSE ENVIRONMENT”, Journal of Information Technology and Digital World, Vol.01/ No. 01, pp. 38-47, 2019
+[10]	S Aishwarya, R. Thiuzhika, A. Manepally, „IoT based greenhouse”, International Journal of Advance Research, Ideas and Innovations in Technology, Volume 4, Issue 5, 2018.
+
+
+[12] 	N. Thirer, I. Uchansky, „An FPGA Based Computer System for Greenhouse Control”, Athens Journal of Sciences, Volume 2, Issue 1, pp. 23-32, 2015.
+[13] 	Shreyas Bhujbal, Yash Deshpande, Arpit Gupta, Ojas Bhelsekar, „IOT Based Smart Greenhouse”, in International Journal of Innovative Research in Science, Engineering and Technology, Vol. 7, Issue 1, January 2018
+[14]	Netduino, Netduino 3 WiWi https://en.wikipedia.org/wiki/Netduino
+[15] 	Arduino vs Netduino vs Raspberry Pi vs Beaglebone Black https://www.dragonflythingworks.com/2013/11/arduino-vs-netduino-vs-raspberry-pi-vs-beaglebone-black-part-1/
+
+
+[16] 	Preț de achiziție Arduino Uno https://cleste.ro/placa-de-dezvoltare-arduino-uno.html
+[17] 	Preț achiziție Raspberry Pi https://cleste.ro/raspberry-pi-4-model-b-2gb.html
+[18] 	Preț de achiziție FPGA https://cleste.ro/placa-dezvoltare-altera-deo-nano-p0082.html
+[19]	Preț de achiziție Uno + Wi-Fi R3 https://cleste.ro/atelier/placa-dezvoltare-unowifi-r3/
+[20] 	Preț achiziție Neduino 3 Wi-Fi https://www.robofun.ro/net/netduino-3-wifi.html
+[21] 	Preț de achiziție senzor de temperatură și umiditate https://cleste.ro/senzor-digital-de-temperatura-i-umiditate-dht11-cu-led.html
+[22] 	Preț de achiziție senzor de umiditate a solului https://cleste.ro/modul-cu-senzor-umiditate-sol.html
+[23] 	Preț de achiziție fotorezistor  https://cleste.ro/fotorezistor-5528-ldr.html
+[24] 	Aplicație de identificare a plantelor „Garden Answers Plant Identification” https://apps.apple.com/us/app/garden-answers-plant-identification/id605855033
+[25] 	Aplicație pentru îngrijirea plantelor, „Waterbot: Plants watering + Gardening” https://play.google.com/store/apps/details?id=net.kosev.watering&hl=en
+[26]	Aplicație pentru îngrijirea plantelor, „Vera Plant Care App” https://www.veraplantcareapp.com
+[27]	Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship. Upper Saddle River, NJ: Prentice Hall, 2009.
+[28]	N.Valliammal, S.N.Geethalakshmi, „Automatic Recognition System Using Preferential Image Segmentation For Leaf And Flower Images”, in Computer Science & Engineering: An International Journal (CSEIJ), Vol.1, No.4, pp. 13 – 25, 2011
+ [30]	https://angular.io/api/core/Component
+[31] 	https://cleste.ro/senzor-temperatura-si-umiditate-dht11.html
+[32]	https://cleste.ro/modul-cu-senzor-umiditate-sol.html
+[33]	https://cleste.ro/fotorezistor-5528-ldr.html
+[34]	https://robotdyn.com/uno-wifi-r3-atmega328p-esp8266-32mb-flash-usb-ttl-ch340g-micro-usb.html
+[35]	Arduino – https://www.arduino.cc/en/main/software
+[36]	UART - https://www.circuitbasics.com/basics-uart-communication/#:~:text= UART%20stands%20for%20Universal%20Asynchronous,transmit%20and%20receive%20serial%20data.
+[37]	Manager de plăcuță (Board manager) specific ESP8266 http://arduino. esp8266.com/stable/package_esp8266com_index.json
+[38] 	Exemplul “Blink” al bibliotecii Arduino https://www.arduino.cc/en/tutorial/blink
+[39]	Tutorial de conectarea a senzorului DHT11 https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+[40]	Bibliotecă pentru utilizare senzorului DHT11 https://www.circuitbasics.com/wp-content/uploads/2015/10/DHTLib.zip
+[41] 	Configurarea serverelor mocked în Postman https://learning.postman.com /docs/designing-and-developing-your-api/mocking-data/setting-up-mock/ 
+[45]	Git https://git-scm.com
