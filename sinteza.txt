@@ -1,0 +1,14 @@
+1. 
+Un sistem IOT inteligent care se ocupă de creșterea semiautomată a plantelor de ghiveci. Sistemul trebuie să poată asigura nevoile de creștere a unei plante de ghiveci cu interacțiune minimă din partea utilizatorului. De asemenea sistemul trebuie să permită utilizatorului să vizualizeze informații despre mediul înconjurător al plantei și să se pronunțe cu privire la calitatea mediului pentru dezvoltarea propice a plantei.
+
+
+
+2.
+Proiectarea unui sistem de monitorizare și creștere a plantelor de ghiveci format dintr-o componentă software și o componentă hardware. Componenta hardware are două funcții: păstrarea nivelului de umiditate a solului peste un anumit prag și transmiterea datelor citite de senzori către modulul software.  Componenta software este responsabilă de gestionarea plantelor utilizatorului, recepționarea datelor citite de senzori de la modulul hardware și pronunțarea în funcție de acestea cu privire la calitatea mediului în care se află planta.
+
+3.
+
+
+dispună de o componentă software și una hardware. Componente software trebuie să fie accesibilă pe Cloud. 
+
+Componenta hardware este formată dintr-un microcip, un modul de internet, o mini pompă submersibilă și senzori ce pot măsura temperatura aerului, umiditatea aerului, intensitatea luminoasă și umiditatea solului. 
